@@ -23,7 +23,8 @@ install:
 
 script:
   - /snap/bin/hugo
-  - pushd public && htmlproofer --disable-external --allow-hash-href --alt-ignore /images/gopher-404.jpg --file-ignore /revealjs/ . && popd
+
+#  - pushd public && htmlproofer --disable-external --allow-hash-href --alt-ignore /images/gopher-404.jpg --file-ignore /revealjs/ . && popd
 
 deploy:
   provider: pages
