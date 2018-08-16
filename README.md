@@ -5,6 +5,15 @@
 
 We use [Hugo](https://gohugo.io/) to build our site.  Installation instructions can be found [here](https://gohugo.io/getting-started/installing/).
 
+### Git Large File Storage
+
+We use [Git LFS](https://git-lfs.github.com/) to store large files.
+
+```
+$ brew install git-lfs
+$ git lfs install
+```
+
 ## Usage
 
 You can clone the repo using:
