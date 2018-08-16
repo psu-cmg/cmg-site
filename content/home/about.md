@@ -22,6 +22,8 @@ weight = 10
 
 +++
 <br>
-{{< video src="video.mp4" controls="controls" poster="poster" >}}
+<video controls muted poster="/img/video.jpg">
+  <source src="http://www.bx.psu.edu/ctr_med_genom/img/video.mp4" type="video/mp4">
+</video>
 <br>
 Bringing together researchers in medicine, genomics, molecular biology and statistics to advance basic genomic research and translate that research into new diagnostic, therapeutic, and preventive medical strategies.
