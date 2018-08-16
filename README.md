@@ -1,4 +1,4 @@
-[cmg.psu.edu](http://cmg.psu.edu) [![Build Status](https://travis-ci.com/psu-cmg/cmg-site.svg?token=dMMa6azk5yJH4pPmtQet&branch-master)](https://travis-ci.com/psu-cmg/cmg-site)
+[cmg.psu.edu](http://cmg.psu.edu) [![Build Status](https://travis-ci.org/psu-cmg/cmg-site.svg?branch-master)](https://travis-ci.org/psu-cmg/cmg-site)
 ===
 
 ### Hugo
