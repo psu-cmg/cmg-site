@@ -1,6 +1,6 @@
 +++
-title = "Janicki Lab"
-date = 2009-01-01T00:00:00
+title = "Liu Lab"
+date = 2006-01-01T00:00:00
 draft = false
 
 # Tags: can be used for filtering labs.
@@ -8,13 +8,13 @@ draft = false
 tags = ["hershey"]
 
 # Lab summary to display on homepage.
-summary = "Anesthesiology"
+summary = "Statistical Genetics; Complex Trait Genetics; Functional Genomics"
 
 # Optional image to display on homepage.
-image_preview = "piotr_janicki.png"
+image_preview = "dajiang_liu.png"
 
 # Optional external URL for lab (replaces lab detail page).
-external_link = "http://www.pennstatehershey.org/findaprovider/provider/1083"
+external_link = "https://dajiangliu.blog/"
 
 # Does the lab detail page use math formatting?
 math = false
@@ -29,3 +29,4 @@ image = ""
 caption = ""
 
 +++
+
