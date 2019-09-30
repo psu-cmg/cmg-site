@@ -21,8 +21,11 @@ install:
 #before_script:
 #  - sudo ./install-CA.sh
 
+#script:
+#  - /snap/bin/hugo
+
 script:
-  - /snap/bin/hugo
+  - hugo
 
 #  - pushd public && htmlproofer --disable-external --allow-hash-href --alt-ignore /images/gopher-404.jpg --file-ignore /revealjs/ . && popd
 
