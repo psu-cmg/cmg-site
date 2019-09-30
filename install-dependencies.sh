@@ -10,19 +10,23 @@ apt-get -qq update || {
     exit 1
 }
 
-## enable snap packages: https://snapcraft.io/
-echo "INFO: enabling snap packages"
-apt-get install -y snapd || {
-    echo "ERROR: failed enabling snap packages"
-    exit 1
-}
+## download hugo c0.50 binary
+(cd /var/tmp && curl -LO https://github.com/gohugoio/hugo/releases/download/v0.50/hugo_0.50_Linux-64bit.deb)
+(dpkg -i /var/tmp/hugo_0.50_Linux-64bit.deb && rm -f /var/tmp/hugo_0.50_Linux-64bit.deb)
 
-## install hugo: https://gohugo.io/
-echo "INFO: installing hugo"
-snap install hugo || {
-    echo "ERROR: failed installing hugo"
-    exit 1
-}
+## ## enable snap packages: https://snapcraft.io/
+## echo "INFO: enabling snap packages"
+## apt-get install -y snapd || {
+##     echo "ERROR: failed enabling snap packages"
+##     exit 1
+## }
+## 
+## ## install hugo: https://gohugo.io/
+## echo "INFO: installing hugo"
+## snap install hugo || {
+##     echo "ERROR: failed installing hugo"
+##     exit 1
+## }
 
 ## use rvm to setup a ruby environment: https://rvm.io/
 set +o nounset
