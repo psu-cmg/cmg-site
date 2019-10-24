@@ -1,6 +1,6 @@
 +++
-title = "Liu Lab"
-date = 2005-01-01T00:00:00
+title = "Gonzalez Lab"
+date = 2011-01-01T00:00:00
 draft = false
 
 # Tags: can be used for filtering labs.
@@ -8,13 +8,13 @@ draft = false
 tags = ["hershey"]
 
 # Lab summary to display on homepage.
-summary = "Statistical Genetics; Complex Trait Genetics; Functional Genomics"
+summary = "Neuropsychiatric genetics in diverse populations"
 
 # Optional image to display on homepage.
-image_preview = "dajiang_liu.png"
+image_preview = "suzanne_gonzalez.png"
 
 # Optional external URL for lab (replaces lab detail page).
-external_link = "https://dajiangliu.blog/"
+external_link = "https://pennstate.pure.elsevier.com/en/persons/suzanne-gonzalez"
 
 # Does the lab detail page use math formatting?
 math = false
@@ -29,4 +29,3 @@ image = ""
 caption = ""
 
 +++
-
