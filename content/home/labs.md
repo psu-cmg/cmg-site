@@ -40,5 +40,9 @@ filter_default = 0
   name = "Hershey"
   tag = ".hershey"
 
+[[filter]]
+  name = "Université Laval"
+  tag = ".laval"
+
 +++
 

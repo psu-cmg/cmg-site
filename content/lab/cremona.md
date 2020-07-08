@@ -1,11 +1,11 @@
 +++
 title = "Cremona Lab"
-date = 2004-01-01T00:00:00
+date = 2016-01-01T00:00:00
 draft = false
 
 # Tags: can be used for filtering labs.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["university_park"]
+tags = ["laval"]
 
 # Lab summary to display on homepage.
 summary = "Statistical techniques for the analysis of large, high-dimensional and complex data."
