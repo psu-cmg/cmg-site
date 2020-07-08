@@ -199,6 +199,7 @@ enableGitInfo = false
     'Journal Club', #2
     'Retreat', #3
     'Symposium',  #4
+    'Public Lecture'  #5
   ]
 
   # Configuration of talk pages.

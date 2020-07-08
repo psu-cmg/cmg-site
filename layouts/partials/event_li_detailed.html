@@ -46,7 +46,7 @@
     {{ with .Params.location }}{{ . }}{{ end }}
   </div>
 
-  {{- if (or (eq (.Scratch.Get "event_type") 1) (eq (.Scratch.Get "event_type") 2)) -}}
+  {{- if (or (eq (.Scratch.Get "event_type") 1) (eq (.Scratch.Get "event_type") 2) (eq (.Scratch.Get "event_type") 5)) -}}
   <div class="talk-metadata" style="font-weight:bold">
     {{ with .Params.presenters }}
     {{ delimit . ", " | markdownify }}
