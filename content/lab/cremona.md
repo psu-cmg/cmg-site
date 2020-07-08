@@ -11,7 +11,7 @@ tags = ["university_park"]
 summary = "Statistical techniques for the analysis of large, high-dimensional and complex data."
 
 # Optional image to display on homepage.
-image_preview = "portrait.jpg"
+image_preview = "marzia_cremona.png"
 
 # Optional external URL for lab (replaces lab detail page).
 external_link = "https://marziacremona.com/"

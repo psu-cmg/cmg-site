@@ -11,7 +11,7 @@ tags = ["university_park"]
 summary = "Understanding the complex relationship humans have with our microbiomes, using high-throughput sequencing technologies and novel computational and statistical techniques."
 
 # Optional image to display on homepage.
-image_preview = "portrait.jpg"
+image_preview = "emily_davenport.png"
 
 # Optional external URL for lab (replaces lab detail page).
 external_link = "https://davenport-lab.github.io/"
