@@ -9,7 +9,7 @@ publication = "_Bioinformatics_"
 publication_short = "_BIOINFORMATICS_"
 publication_types = ["2"]
 
-abstract = "Supplementary information:Supplementary data are available at Bioinformatics online."
+abstract = ""
 abstract_short = ""
 
 image_preview = ""
