@@ -14,7 +14,7 @@ summary = "Newborn health outcomes, childhood obesity, breastfeeding, pediatric 
 image_preview = "ian_paul.png"
 
 # Optional external URL for lab (replaces lab detail page).
-external_link = "http://pennstatehershey.org/findaprovider/provider/932"
+external_link = "https://pennstate.pure.elsevier.com/en/persons/ian-paul"
 
 # Does the lab detail page use math formatting?
 math = false

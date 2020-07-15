@@ -14,7 +14,7 @@ summary = "The Enzymology of DNA Repair and Mutagenesis; Mechanisms of fidelity 
 image_preview = "thomas_spratt.png"
 
 # Optional external URL for lab (replaces lab detail page).
-external_link = "https://profiles.psu.edu/profiles/display/112126"
+external_link = "https://pennstate.pure.elsevier.com/en/persons/thomas-spratt"
 
 # Does the lab detail page use math formatting?
 math = false

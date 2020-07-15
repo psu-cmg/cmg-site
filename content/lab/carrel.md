@@ -14,7 +14,7 @@ summary = "Genomics of X chromosome inactivation"
 image_preview = "laura_carrel.png"
 
 # Optional external URL for lab (replaces lab detail page).
-external_link = "http://www.huck.psu.edu/users/luc3"
+external_link = "https://sites.psu.edu/carrel"
 
 # Does the lab detail page use math formatting?
 math = false

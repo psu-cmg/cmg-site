@@ -14,7 +14,7 @@ summary = "Statistical Genetics; Complex Trait Genetics; Functional Genomics"
 image_preview = "dajiang_liu.png"
 
 # Optional external URL for lab (replaces lab detail page).
-external_link = "https://dajiangliu.blog/"
+external_link = "https://dajiangliu.blog"
 
 # Does the lab detail page use math formatting?
 math = false

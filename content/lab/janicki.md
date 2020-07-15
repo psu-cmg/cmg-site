@@ -14,7 +14,7 @@ summary = "Anesthesiology"
 image_preview = "piotr_janicki.png"
 
 # Optional external URL for lab (replaces lab detail page).
-external_link = "http://www.pennstatehershey.org/findaprovider/provider/1083"
+external_link = "https://pennstate.pure.elsevier.com/en/persons/piotr-janicki"
 
 # Does the lab detail page use math formatting?
 math = false

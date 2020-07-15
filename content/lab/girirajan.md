@@ -14,7 +14,7 @@ summary = "Genetics of neurodevelopmental disorders"
 image_preview = "santosh_girirajan.png"
 
 # Optional external URL for lab (replaces lab detail page).
-external_link = "http://bmb.psu.edu/directory/sxg47"
+external_link = "https://autism.bx.psu.edu"
 
 # Does the lab detail page use math formatting?
 math = false

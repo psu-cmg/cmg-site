@@ -14,7 +14,7 @@ summary = "Pediatrics, Hematology, Oncology"
 image_preview = "sinisa_dovat.png"
 
 # Optional external URL for lab (replaces lab detail page).
-external_link = "https://profiles.psu.edu/profiles/display/112092"
+external_link = "https://pennstate.pure.elsevier.com/en/persons/sinisa-dovat"
 
 # Does the lab detail page use math formatting?
 math = false

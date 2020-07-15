@@ -14,7 +14,7 @@ summary = "Statistical techniques for the analysis of large, high-dimensional an
 image_preview = "marzia_cremona.png"
 
 # Optional external URL for lab (replaces lab detail page).
-external_link = "https://marziacremona.com/"
+external_link = "https://marziacremona.com"
 
 # Does the lab detail page use math formatting?
 math = false

@@ -14,7 +14,7 @@ summary = "Functional Data Analysis; Longitudinal Data Analysis; Statistical Gen
 image_preview = "matthew_reimherr.png"
 
 # Optional external URL for lab (replaces lab detail page).
-external_link = "http://www.personal.psu.edu/mlr36"
+external_link = "http://personal.psu.edu/mlr36"
 
 # Does the lab detail page use math formatting?
 math = false

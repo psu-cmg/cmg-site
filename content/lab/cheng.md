@@ -14,7 +14,7 @@ summary = "Convergence Science approaches to phenomics, cancer genetics, web-bas
 image_preview = "keith_cheng.png"
 
 # Optional external URL for lab (replaces lab detail page).
-external_link = "http://www.pennstatehershey.org/web/pathology/keith-cheng"
+external_link = "http://chenglab.io"
 
 # Does the lab detail page use math formatting?
 math = false

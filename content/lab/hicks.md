@@ -14,7 +14,7 @@ summary = "Assistant Prof in the Dept of Pediatrics"
 image_preview = "steven_hicks.png"
 
 # Optional external URL for lab (replaces lab detail page).
-external_link = "http://www.pennstatehershey.org/findaprovider/provider/3083"
+external_link = "https://pennstate.pure.elsevier.com/en/persons/steven-hicks"
 
 # Does the lab detail page use math formatting?
 math = false

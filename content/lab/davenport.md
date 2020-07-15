@@ -14,7 +14,7 @@ summary = "Understanding the complex relationship humans have with our microbiom
 image_preview = "emily_davenport.png"
 
 # Optional external URL for lab (replaces lab detail page).
-external_link = "https://davenport-lab.github.io/"
+external_link = "https://davenport-lab.github.io"
 
 # Does the lab detail page use math formatting?
 math = false

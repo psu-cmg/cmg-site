@@ -14,7 +14,7 @@ summary = "Molecular mechanisms of mutagenesis in human cells as related to canc
 image_preview = "kristin_eckert.png"
 
 # Optional external URL for lab (replaces lab detail page).
-external_link = "https://profiles.psu.edu/profiles/display/113435"
+external_link = "https://pennstate.pure.elsevier.com/en/persons/kristin-eckert"
 
 # Does the lab detail page use math formatting?
 math = false

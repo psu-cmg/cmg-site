@@ -14,7 +14,7 @@ summary = "Mechanisms of trinucleotide repeats diseases"
 image_preview = "maria_krasilnikova.png"
 
 # Optional external URL for lab (replaces lab detail page).
-external_link = "http://bmb.psu.edu/directory/muk19"
+external_link = "https://www.huck.psu.edu/people/maria-krasilnikova"
 
 # Does the lab detail page use math formatting?
 math = false

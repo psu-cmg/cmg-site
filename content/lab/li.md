@@ -14,7 +14,7 @@ summary = "Developing statistical methods for uncovering complicated patterns in
 image_preview = "qunhua_li.png"
 
 # Optional external URL for lab (replaces lab detail page).
-external_link = "http://www.personal.psu.edu/users/q/u/qul12"
+external_link = "http://personal.psu.edu/users/q/u/qul12"
 
 # Does the lab detail page use math formatting?
 math = false
