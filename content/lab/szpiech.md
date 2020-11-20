@@ -11,7 +11,7 @@ tags = ["university_park"]
 summary = "Population genetics and evolutionary genomics"
 
 # Optional image to display on homepage.
-image_preview = "zachary_szpiech.jpg"
+image_preview = "zachary_szpiech.png"
 
 # Optional external URL for lab (replaces lab detail page).
 external_link = "http://szpiech.com"
