@@ -13,7 +13,7 @@ title = "Center for Medical Genomics"
 
 # Your copyright notice - appears in site footer.
 # To display a copyright symbol, type `&copy;`.
-copyright = "&copy; 2018 Center for Medical Genomics"
+copyright = "&copy; 2021 Center for Medical Genomics"
 
 theme = "academic"
 enableEmoji = true

@@ -5,7 +5,7 @@ widget = "publications"
 active = true
 date = 2016-04-20T00:00:00
 
-title = "Collaborative Publications"
+title = "Publications"
 subtitle = ""
 
 # Order that this section will appear in.
@@ -13,6 +13,9 @@ weight = 40
 
 # Number of publications to list.
 count = 10
+
+# Restrict to publications from the current year
+current_year_only = true
 
 # List format.
 #   0 = Simple
