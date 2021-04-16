@@ -32,13 +32,17 @@
   </h3>
 
   <div class="talk-metadata" itemprop="startDate">
-    {{ $date := .Params.time_start | default .Date }}
-    {{ (time $date).Format "Monday, Jan 2, 2006" }}
-    {{ if $.Site.Params.events.time }}
-      {{ (time $date).Format ($.Site.Params.time_format | default "3:04 PM") }}
-      {{ with .Params.time_end }}
-        &mdash; {{ (time .).Format ($.Site.Params.time_format | default "3:04 PM") }}
+    {{ if not .Params.reschedule }}
+      {{ $date := .Params.time_start | default .Date }}
+      {{ (time $date).Format "Monday, Jan 2, 2006" }}
+      {{ if $.Site.Params.events.time }}
+        {{ (time $date).Format ($.Site.Params.time_format | default "3:04 PM") }}
+        {{ with .Params.time_end }}
+          &mdash; {{ (time .).Format ($.Site.Params.time_format | default "3:04 PM") }}
+        {{ end }}
       {{ end }}
+    {{ else }}
+      To be rescheduled
     {{ end }}
   </div>
 
