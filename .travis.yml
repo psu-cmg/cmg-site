@@ -1,33 +1,17 @@
-# non-zero exit code in the following and the build is "errored"
-#   - before_install
-#   - install
-#   - before_script
-#
-# non-zero exit code in the following and the build is "failed"
-#   - script
-
 dist: xenial
 sudo: required
 
-# non-zero exit code: build is "errored"
 before_install:
   - sudo ./install-dependencies.sh
 
-# non-zero exit code: build is "errored"
 install:
   - rm -rf public
-
-# non-zero exit code: build is "errored"
-#before_script:
-#  - sudo ./install-CA.sh
-
-#script:
-#  - /snap/bin/hugo
 
 script:
   - hugo
 
-#  - pushd public && htmlproofer --disable-external --allow-hash-href --alt-ignore /images/gopher-404.jpg --file-ignore /revealjs/ . && popd
+#  - rvm use default
+#  - pushd public && htmlproofer . --check-html --disable-external --allow-hash-href --empty-alt-ignore && popd
 
 deploy:
   provider: pages
@@ -39,3 +23,8 @@ deploy:
   repo: psu-cmg/psu-cmg.github.io
   target_branch: master
   fqdn: cmg.psu.edu
+
+env:
+  global:
+    - HUGO_RELEASE=0.50
+    - RUBY_RELEASE=2.6.7
