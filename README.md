@@ -1,4 +1,4 @@
-[cmg.psu.edu](http://cmg.psu.edu) [![Build Status](https://app.travis-ci.com/psu-cmg/cmg-site.svg?branch=master)](https://app.travis-ci.com/github/psu-cmg/cmg-site)
+[cmg.psu.edu](http://cmg.psu.edu) ![Build and Deploy](https://github.com/psu-cmg/cmg-site/actions/workflows/build-and-deploy.yml/badge.svg?branch=master)
 ===
 
 ### Hugo
