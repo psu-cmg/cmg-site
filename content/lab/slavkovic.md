@@ -11,7 +11,7 @@ tags = ["university park"]
 summary = "Statistical Data Privacy"
 
 # Optional image to display on homepage.
-image_preview = "_aleksandra_sesa_slavkovic.jpg"
+image_preview = "https://ecos-appdev-production.s3.amazonaws.com/science_site/s3fs-public/styles/f_story_image/public/2019-12/_aleksandra_sesa_slavkovic.jpg?h=bfced127&itok=CSY7O3aD"
 
 # Optional external URL for lab (replaces lab detail page).
 external_link = "https://science.psu.edu/stat/people/abs12"
