@@ -8,7 +8,7 @@ draft = false
 tags = ["university park"]
 
 # Lab summary to display on homepage.
-summary = "Statistical Data Privacy"
+summary = "Statistical Data Privacy, Differential Privacy, Algebraic Statistics, Discrete Distributions, Application of Statistics to Information and Social Sciences"
 
 # Optional image to display on homepage.
 image_preview = "_aleksandra_sesa_slavkovic.jpg"
