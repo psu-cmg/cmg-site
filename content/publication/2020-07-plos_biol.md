@@ -3,7 +3,7 @@ title = "Age-related accumulation of de novo mitochondrial mutations in mammalia
 date = "2020-07-01T00:00:00"
 draft = false
 
-authors = [“B Arbeithuber”,  “J Hester”, “MA Cremona”, “N Stoler”, “A Zaidi”, “B Higgins”, “K Anthony”, “F Chiaromonte”, “FJ Diaz”, “KD Makova”]
+authors = ["B Arbeithuber",  "J Hester", "MA Cremona", "N Stoler", "A Zaidi", "B Higgins", "K Anthony", "F Chiaromonte", "FJ Diaz", "KD Makova"]
 publication = "_PLOS BIOLOGY_"
 publication_short = "_PLoS Biol_"
 publication_types = ["2"]
