@@ -4,8 +4,8 @@ date = "2020-09-01T00:00:00"
 draft = false
 
 authors = ["PH Cygan", "SE Arnold-Croop", "EA Weidman", "F Chen", "DJ Liu ", "ME Eyster", "L Carrel"]
-publication = "_Thromb Res_"
-publication_short = "_Thrombosis Research_"
+publication = "_Thrombosis Research_"
+publication_short = "_Thromb Res_"
 publication_types = ["2"]
 
 abstract = "Keywords: Factor V; Hemophilia A; Prothrombotic gene variants; Rebalanced hemostasis; von Willebrand factor."
