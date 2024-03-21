@@ -26,7 +26,7 @@ url_slides = ""
 url_video = ""
 url_poster = ""
 url_source = ""
-url_custom = [{name = "DOI", url = "[10.1101/2023.11.30.569198](https://www.biorxiv.org/content/10.1101/2023.11.30.569198v2)"}]
+url_custom = [{name = "DOI", url = "https://www.biorxiv.org/content/10.1101/2023.11.30.569198v2"}]
 
 math = false
 highlight = true
