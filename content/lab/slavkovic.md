@@ -1,6 +1,6 @@
 +++
 title = "Slavkovic Lab"
-date = 2002-03-01T00:00:00
+date = 2002-01-01T00:00:00
 draft = false
 
 # Tags: can be used for filtering labs.
@@ -11,7 +11,7 @@ tags = ["university park"]
 summary = "Statistical Data Privacy, Differential Privacy, Algebraic Statistics, Discrete Distributions, Application of Statistics to Information and Social Sciences"
 
 # Optional image to display on homepage.
-image_preview = "_aleksandra_sesa_slavkovic.jpg"
+image_preview = "aleksandra_slavkovic.png"
 
 # Optional external URL for lab (replaces lab detail page).
 external_link = "https://science.psu.edu/stat/people/abs12"
