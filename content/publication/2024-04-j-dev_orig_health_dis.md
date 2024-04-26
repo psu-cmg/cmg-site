@@ -25,7 +25,7 @@ url_slides = ""
 url_video = ""
 url_poster = ""
 url_source = ""
-url_custom = [{name = "DOI", url = " https://doi.org/10.1017/S2040174424000060"}]
+url_custom = [{name = "DOI", url = "https://doi.org/10.1017/S2040174424000060"}]
 
 math = false
 highlight = true
