@@ -1,6 +1,6 @@
 +++
 title = "Bankevich Lab"
-date = 2024-11-07T00:00:00
+date = 2023-12-07T00:00:00
 draft = false
 
 # Tags: can be used for filtering labs.
