@@ -8,7 +8,7 @@ draft = false
 tags = ["university park"]
 
 # Lab summary to display on homepage.
-summary = "uncertainty quantification in the setting of partial identifiability with a particular application to the analysis of multivariate sequence count data, multivariate time-series analysis"
+summary = "Uncertainty quantification in the setting of partial identifiability with a particular application to the analysis of multivariate sequence count data, multivariate time-series analysis"
 
 # Optional image to display on homepage.
 image_preview = ""
