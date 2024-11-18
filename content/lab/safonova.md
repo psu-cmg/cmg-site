@@ -8,7 +8,7 @@ draft = false
 tags = ["university park"]
 
 # Lab summary to display on homepage.
-summary = "development of computational tools for comparative and personalized immunogenomics and studies adaptive immune systems and responses"
+summary = "Development of computational tools for comparative and personalized immunogenomics and studies adaptive immune systems and responses"
 
 # Optional image to display on homepage.
 image_preview = ""
