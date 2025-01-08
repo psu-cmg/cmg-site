@@ -11,7 +11,7 @@ tags = ["university_park"]
 summary = "sequencing data analysis and genome assembly"
 
 # Optional image to display on homepage.
-image_preview = ""
+image_preview = "anton_bankevich.png"
 
 # Optional external URL for lab (replaces lab detail page).
 external_link = "https://sites.google.com/view/anton-bankevich/about-me"

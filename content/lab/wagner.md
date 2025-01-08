@@ -11,7 +11,7 @@ tags = ["university_park"]
 summary = " international human right to science, including human-centered design and matters of nondiscrimination, privacy, and equity with genetic/omic and mobile/digital health technologies."
 
 # Optional image to display on homepage.
-image_preview = ""
+image_preview = "jennifer_wagner.png"
 
 # Optional external URL for lab (replaces lab detail page).
 external_link = "https://sites.psu.edu/wagnerlab/about-dr-wagner/"

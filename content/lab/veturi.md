@@ -11,7 +11,7 @@ tags = ["university_park"]
 summary = "integration of high-dimensional data with electronic health records to dissect shared genetics among complex human traits/diseases and to understand sex and ethnic differences in cognitive decline."
 
 # Optional image to display on homepage.
-image_preview = ""
+image_preview = "yogasudha_veturi.png"
 
 # Optional external URL for lab (replaces lab detail page).
 external_link = "https://veturilab.org/"

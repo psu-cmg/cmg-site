@@ -11,7 +11,7 @@ tags = ["university_park"]
 summary = "Skeletal Muscle Biology-Gene regulation"
 
 # Optional image to display on homepage.
-image_preview = ""
+image_preview = "gustavo_nader.png"
 
 # Optional external URL for lab (replaces lab detail page).
 external_link = "https://cancer.psu.edu/researchers/individual/-/researcher/8228C6F62C079BAAE053C90D1DAC806A/gustavo-alberto-nader"
