@@ -3,7 +3,7 @@ title = "Assessing Assembly Errors in Immunoglobulin Loci: A Comprehensive Evalu
 date = "2024-08-02T00:00:00"
 draft = false
 
-authors = ["Y Zhu","C Watson","Y Safonova","M Pennell","A Bankevich"]
+authors = ["Y Zhu", "C Watson", "Y Safonova", "M Pennell", "A Bankevich"]
 publication = "_bioRxiv_"
 publication_short = "_bioRxiv_"
 publication_types = ["2"]
