@@ -3,7 +3,7 @@ title = "Integrating electronic health records and GWAS summary statistics to pr
 date = "2025-01-02T00:00:00"
 draft = false
 
-authors = ["C Wang", "H Markus", "AR Diwadkar", "C Khunsriraksakul", "L Carrel", "B Li", "X Zhong", "X Wang", "X Zhan", "GT Foulke", "NJ Olsen", "DJ Liu", "Bibo Jiang"]
+authors = ["C Wang", "H Markus", "AR Diwadkar", "C Khunsriraksakul", "L Carrel", "B Li", "X Zhong", "X Wang", "X Zhan", "GT Foulke", "NJ Olsen", "DJ Liu", "B Jiang"]
 publication = "_Nature Communication_"
 publication_short = "_Nat Commun_"
 publication_types = ["2"]
