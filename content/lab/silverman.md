@@ -11,7 +11,7 @@ tags = ["university park"]
 summary = "Uncertainty quantification in the setting of partial identifiability with a particular application to the analysis of multivariate sequence count data, multivariate time-series analysis"
 
 # Optional image to display on homepage.
-image_preview = ""
+image_preview = "justin_silverman.png"
 
 # Optional external URL for lab (replaces lab detail page).
 external_link = "http://www.justin-silverman.com/"

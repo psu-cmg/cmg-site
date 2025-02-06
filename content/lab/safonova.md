@@ -11,7 +11,7 @@ tags = ["university park"]
 summary = "Development of computational tools for comparative and personalized immunogenomics and studies adaptive immune systems and responses"
 
 # Optional image to display on homepage.
-image_preview = ""
+image_preview = "yana_safonova.png"
 
 # Optional external URL for lab (replaces lab detail page).
 external_link = "https://sites.google.com/view/yana-safonova/about"
