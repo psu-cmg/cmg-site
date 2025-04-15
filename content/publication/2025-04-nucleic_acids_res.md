@@ -1,6 +1,6 @@
 +++
 title = "Non-canonical DNA in human and other ape telomere-to-telomere genomes"
-date = "2025-03-10T00:00:00"
+date = "2025-04-14T00:00:00"
 draft = false
 
 authors = ["L Smeds", "K Kamali", "I Kejnovská", "E Kejnovský", "F Chiaromonte", "KD Makova"]
@@ -26,7 +26,7 @@ url_slides = ""
 url_video = ""
 url_poster = ""
 url_source = ""
-url_custom = [{name = "DOI", url = "https://doi.org/10.1101/2024.09.02.610891"}]
+url_custom = [{name = "DOI", url = "https://doi.org/10.1093/nar/gkaf298"}]
 
 math = false
 highlight = true
