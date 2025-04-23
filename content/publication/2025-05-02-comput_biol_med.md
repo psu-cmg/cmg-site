@@ -3,7 +3,7 @@ title = "A multi-omics analysis of effector and resting treg cells in pan-cancer
 date = "2025-05-02T00:00:01"
 draft = false
 
-authors = [AM Chalepaki", "M Gkoris", "I Chondrou", "M Kourti","I Georgakopoulos-Soares", "A Zaravinos"]
+authors = ["AM Chalepaki", "M Gkoris", "I Chondrou", "M Kourti","I Georgakopoulos-Soares", "A Zaravinos"]
 publication = "_Computers in Biology and Medicine_"
 publication_short = "_Comput Biol Med_"
 publication_types = ["2"]
