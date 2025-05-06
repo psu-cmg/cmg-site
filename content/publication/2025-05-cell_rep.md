@@ -1,6 +1,6 @@
 +++
 title = "MyD88-mediated signaling in intestinal fibroblasts regulates macrophage antimicrobial defense and prevents dysbiosis in the gut"
-date = "2025-05-27T00:00:01"
+date = "2025-05-06T00:00:01"
 draft = false
 
 authors = ["M Chulkina", "H Tran", "G Uribe", "SB McAninch", "C McAninch", "A Seideneck", "B He", "M Lanza", "K Khanipov", "G Golovko", "DW Powell", "ER Davenport", "IV Pinchuk"]
