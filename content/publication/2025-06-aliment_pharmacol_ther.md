@@ -1,6 +1,6 @@
 +++
 title = "The Impact of Antispasmodic Use on Abdominal Pain and Opioid Use in Inflammatory Bowel Disease: A Population-Based Study"
-date = "2025-06-01T00:00:01"
+date = "2025-05-29T00:00:01"
 draft = false
 
 authors = ["C Khunsriraksakul", "O Ziegler", "DJ Liu", "AS Kulaylat", "MD Coates"]
