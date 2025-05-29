@@ -6,7 +6,7 @@ draft = false
 authors = ["C Khunsriraksakul", "O Ziegler", "DJ Liu", "AS Kulaylat", "MD Coates"]
 publication = "_Alimentary Pharmacology & Therapeutics_"
 publication_short = "_Aliment Pharmacol Ther_"
-publication_types = ["2"]
+publication_types = ["0"]
 
 abstract = "This article relates to The Impact of Antispasmodic Use on Abdominal Pain and Opioid Use in Inflammatory Bowel Disease: A Population-Based Study"
 
