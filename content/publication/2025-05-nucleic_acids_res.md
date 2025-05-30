@@ -3,7 +3,7 @@ title = "invertiaDB: a database of inverted repeats across organismal genomes"
 date = "2025-05-09T00:00:00"
 draft = false
 
-authors = ["SE Hile", "MH Weissensteiner", "KG Pytko", "J Dahl", "E Kejnovsky", "I Kejnovská", "M Hedglin", "I Georgakopoulos-Soares", "KD Makova", "KA Eckert"]
+authors = ["K Provatas", "N Chantzi", "N Amptazi", "M Patsakis", "A Nayak", "I Mouratidis", "A Zaravinos", "GA Pavlopoulos", "I Georgakopoulos-Soares"]
 publication = "_Nucleic Acids Research_"
 publication_short = "_Nucleic Acids Res_"
 publication_types = ["2"]
