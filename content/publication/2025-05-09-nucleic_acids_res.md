@@ -1,6 +1,6 @@
 +++
 title = "Replicative DNA polymerase epsilon and delta holoenzymes show wide-ranging inhibition at G-quadruplexes in the human genome"
-date = "2025-04-29T00:00:00"
+date = "2025-05-09T00:00:00"
 draft = false
 
 authors = ["SE Hile", "MH Weissensteiner", "KG Pytko", "J Dahl", "E Kejnovsky", "I Kejnovská", "M Hedglin", "I Georgakopoulos-Soares", "KD Makova", "KA Eckert"]
