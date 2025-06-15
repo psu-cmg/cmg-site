@@ -3,7 +3,7 @@ title = "Family Functioning and Pubertal Maturation in Hispanic/Latino Children 
 date = "2025-04-07T00:00:00"
 draft = false
 
-authors = ["AK April-Sanders", "P Tehranifar", "MB Terry", "DM Crookes", "CR Isasi", "LC Gallo", "L Fernandez-Rhodes", "KM Perreira", "ML Daviglus", "SF Suglia”]
+authors = ["AK April-Sanders", "P Tehranifar", "MB Terry", "DM Crookes", "CR Isasi", "LC Gallo", "L Fernandez-Rhodes", "KM Perreira", "ML Daviglus", "SF Suglia"]
 publication = "_International Journal of Environmental Research and Public Health_"
 publication_short = "_Int J Environ Res Public Health_"
 publication_types = ["2"]
