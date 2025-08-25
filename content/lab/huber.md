@@ -14,7 +14,7 @@ summary = "Ancient DNA, Bioinformatics, Conservation Genetics, Evolutionary Biol
 image_preview = "christian_huber.png"
 
 # Optional external URL for lab (replaces lab detail page).
-external_link = "https://science.psu.edu/bio/people/cdh5313"
+external_link = "https://sites.google.com/view/christian-d-huber"
 
 # Does the lab detail page use math formatting?
 math = false
