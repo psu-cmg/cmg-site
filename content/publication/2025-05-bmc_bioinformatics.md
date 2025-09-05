@@ -3,7 +3,7 @@ title = "MAFcounter: an efficient tool for counting the occurrences of k-mers in
 date = "2025-05-30T00:00:00"
 draft = false
 
-authors = ["M Patsakis", "K Provatas", "A Karatzikos", "C Koilakos", "I Mouratidis', "I Georgakopoulos-Soares"]
+authors = ["M Patsakis", "K Provatas", "A Karatzikos", "C Koilakos", "I Mouratidis", "I Georgakopoulos-Soares"]
 publication = "_BMC Bioinformatics_"
 publication_short = "_BMC Bioinformatics_"
 publication_types = ["2"]
