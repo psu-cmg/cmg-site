@@ -1,5 +1,4 @@
 +++
-title = "+++
 title = "Critical roles of IKAROS and HDAC1 in regulation of heterochromatin and tumor suppression in T-cell acute lymphoblastic leukemia"
 date = "2025-06-24T00:00:00"
 draft = false
