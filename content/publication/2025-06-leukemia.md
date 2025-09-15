@@ -3,7 +3,7 @@ title = "Critical roles of IKAROS and HDAC1 in regulation of heterochromatin and
 date = "2025-06-24T00:00:00"
 draft = false
 
-authors = ["Y Ding" , "B He", "D Bogush" , "J Schramm" , "C Singh" , "K Dovat" , "J Randazzo" , "D Tukaramrao" , "J Hengst" , "C Annageldiyev" , "A Kudva" , "D Desai" , "A Sharma" , "VS Spiegelman" , "S Huang" , "CT Viet" , "G Dorsam" , "GS Scholler" , "J Broach" , "F Yue" , "S Dovat" ]
+authors = ["Y Ding", "B He", "D Bogush", "J Schramm", "C Singh", "K Dovat", "J Randazzo", "D Tukaramrao", "J Hengst", "C Annageldiyev", "A Kudva", "D Desai", "A Sharma", "VS Spiegelman", "S Huang", "CT Viet", "G Dorsam", "GS Scholler", "J Broach", "F Yue", "S Dovat"]
 publication = "_Leukemia_"
 publication_short = "_Leukemia_"
 publication_types = ["2"]
