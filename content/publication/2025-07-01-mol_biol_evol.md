@@ -1,6 +1,6 @@
 +++
 title = "Comparative Analysis of Mammalian Adaptive Immune Loci Revealed Spectacular Divergence and Common Genetic Patterns"
-date = "2025-07-01T00:00:00"
+date = "2025-07-02T00:00:00"
 draft = false
 
 authors = ["M Pospelova", "K Voss", "A Zamyatin", "CT Watson", "KP Koepfli", "A Bankevich", "M Pennell", "Y Safonova"]
