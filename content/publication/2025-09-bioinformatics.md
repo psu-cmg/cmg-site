@@ -3,8 +3,7 @@ title = "PatchWorkPlot: simultaneous visualization of local alignments across mu
 date = "2025-09-15T00:00:00"
 draft = false
 
-authors = ["KE Hunter", "D Nguyen", "S Libesman", "JG Williams", "M Aberoumand", "J Aagerup", "BJ Johnson", "RK Golley", "A Barba", "JX Sotiropoulos", "N Shrestha", "T Palacios", "SJ Pryde", "L Wolfenden", "RW Taylor", "PJ Godolphin", "K Matvienko-Sikar", "LM Sanders", "KP Robledo", "V Brown", "CT Wood", "S Taki", "HS Yin", "AJ Hayes", "DA O'Connor", "W Smith", "DE Espinoza", "L Askie", "PM Chadwick", "C Rissel", "AC Webster", "KD Hesketh", "M Bryant", "JL Thomson", "R Lakshman", "AG Fiks", "C Helle", "CO Stough", "KK Ong", "EM Perrin", "L Karssen", "JK Larsen", "AM Linares", "MJ Messito", "LM Wen", "E Oken", "NC Øverby", "C Palacios", "IM Paul", "FE Rasmussen", "EA Reifsnider", "RL Rothman", "RA Byrne", "TM Rybak", "SJ Salvy", "HM Wasser", "AL Thompson", "A Ghaderi", "BJ Taylor", "C Maffeis", "H Xu", "JS Savage", "KJ Joshipura", "K de la Haye", "M Røed", "B Copsey", "N Golova", "RS Gross", "S Anzman-Frasca", "J Banna", "LA Baur", "AL Seidler", "TOPCHILD Collaboration"
-]
+authors = ["M Pospelova", "Y Safonova"]
 publication = "_Bioinformatics_"
 publication_short = "_Bioinformatics_"
 publication_types = ["2"]
