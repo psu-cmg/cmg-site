@@ -1,6 +1,6 @@
 +++
 title = "Vazquez Lab"
-date = 1998-02-07T00:00:00
+date = 1996-01-01T00:00:00
 draft = false
 
 # Tags: can be used for filtering labs.
@@ -8,13 +8,13 @@ draft = false
 tags = ["university_park"]
 
 # Lab summary to display on homepage.
-summary = "Evolution of longevity in mammals with a special interest in humans, bats, and cetaceans, functional genomics, population genomics, evolutionary genomics, and molecular and cellular biology"
+summary = " biology of aging, evolutionary medicine, functional genomics."
 
 # Optional image to display on homepage.
-image_preview = ""
+image_preview = "juan_manuel_vazquez.png"
 
 # Optional external URL for lab (replaces lab detail page).
-external_link = "https://lab.vazquez.bio/"
+external_link = "https://lab.vazquez.bio/author/juan-manuel-manny-vazquez/"
 
 # Does the lab detail page use math formatting?
 math = false
