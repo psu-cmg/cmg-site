@@ -3,7 +3,7 @@ title = "Neurotechnology Governance in the United States: Gaps and Opportunities
 date = "2025-11-28T00:00:00"
 draft = false
 
-authors = ['LY Cabrera", "N Evereteze", "EG Shank", "JK Wagner", "M Mekel", "JB McCormick", "MS Wright"]
+authors = ["LY Cabrera", "N Evereteze", "EG Shank", "JK Wagner", "M Mekel", "JB McCormick", "MS Wright"]
 publication = "_Bioethics_"
 publication_short = "_Bioethics_"
 publication_types = ["2"]
