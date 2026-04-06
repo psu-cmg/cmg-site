@@ -3,7 +3,7 @@ title = "Substitution Spectrum and Selection at G-quadruplexes in Great Ape Telo
 date = "2026-02-26T00:00:00"
 draft = false
 
-authors = ["X Zhang", "SK Mohanty", "F Chiaromonte", "KD Makova]
+authors = ["X Zhang", "SK Mohanty", "F Chiaromonte", "KD Makova"]
 publication = "_Genome Biology and Evolution_"
 publication_short = "_Genome Biol Evol_"
 publication_types = ["2"]
