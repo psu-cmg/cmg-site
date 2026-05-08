@@ -26,7 +26,7 @@ url_slides = ""
 url_video = ""
 url_poster = ""
 url_source = ""
-url_custom = [{name = "DOI", url = "https://roxannekhamsi.com/beyond-inheritance/"}]
+url_custom = [{name = "Book Link", url = "https://roxannekhamsi.com/beyond-inheritance/"}]
 
 math = false
 highlight = true
