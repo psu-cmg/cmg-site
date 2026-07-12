@@ -2,7 +2,6 @@
 title = "GnnDebugger: GNN based error correction in De Bruijn Graphs"
 date = "2026-06-16T00:00:00"
 draft = false
-
 authors = ["M Šimunović", "L Vrček", "M Šikić", "A Bankevich"]
 publication = "_BMC Bioinformatics_"
 publication_short = "_BMC Bioinform_"
