@@ -1,5 +1,5 @@
 +++
-title = "Discussion on "INTACT: A method for integration of longitudinal physical activity data from multiple sources" by Jingru Zhang, Erjia Cui, Hongzhe Li, and Haochang Shou"
+title = "Discussion on INTACT: A method for integration of longitudinal physical activity data from multiple sources by Jingru Zhang, Erjia Cui, Hongzhe Li, and Haochang Shou"
 date = "2026-06-17T00:00:00"
 draft = false
 
