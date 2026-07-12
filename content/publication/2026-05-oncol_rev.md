@@ -1,5 +1,4 @@
 +++
-
 title = "Recent advancements in the application of artificial intelligence-based approaches for screening, diagnosis, prognosis and treatment of cervical cancer"
 
 date = "2026-05-11T00:00:00"
