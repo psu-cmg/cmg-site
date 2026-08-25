@@ -3,7 +3,7 @@ title = "The gift of novelty: repeat-robust k-mer-based estimators of mutation r
 date = "2026-07-01T00:00:00"
 draft = false
 
-authors = ["H Wu, "P Medvedev"]
+authors = ["H Wu", "P Medvedev"]
 publication = "_Bioinformatics_"
 publication_short = "_Bioinformatics_"
 publication_types = ["2"]
