@@ -3,7 +3,7 @@ title = "A k-mer-based estimator of the substitution rate between repetitive seq
 date = "2026-07-03T00:00:00"
 draft = false
 
-authors = ["H Wu", "A Blanca "P Medvedev"]
+authors = ["H Wu", "A Blanca", "P Medvedev"]
 publication = "_Algorithms for Molecular Biology_"
 publication_short = "_Algorithms Mol Biol_"
 publication_types = ["2"]
