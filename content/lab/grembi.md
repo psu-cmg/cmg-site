@@ -11,7 +11,7 @@ tags = ["university_park"]
 summary = "Ecology of the human small intestine"
 
 # Optional image to display on homepage.
-image_preview = "grembi.png"
+image_preview = ""
 
 # Optional external URL for lab (replaces lab detail page).
 external_link = "https://jgrembi.github.io/"
